@@ -2,5 +2,5 @@
  "channel": "https://raw.githubusercontent.com/SkAZi/bersency-nxt-release/main/", 
  "const.json": "0.6.1", 
  "data.json": "0.6.1", 
- "cards": ["base"]
+ "cards": []
 }
