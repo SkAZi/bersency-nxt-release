@@ -4,6 +4,7 @@
  "data.json": "0.6.5",
  "cards": [
   "https://raw.githubusercontent.com/SkAZi/bersency-nxt-release/main/archives/0.6.3.zip",
-  "https://raw.githubusercontent.com/SkAZi/bersency-nxt-release/main/archives/0.6.4.zip"
+  "https://raw.githubusercontent.com/SkAZi/bersency-nxt-release/main/archives/0.6.4.zip",
+  "https://raw.githubusercontent.com/SkAZi/bersency-nxt-release/main/archives/0.6.5.zip"
  ]
 }
