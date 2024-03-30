@@ -75,5 +75,30 @@
     "f": "",
     "fpf": "pf",
     "altfpf": "altpf"
+  },
+  "icons": {
+    "ova": "Опыт в атаке",
+    "ovz": "Опыт в защите",
+    "ovs": "Опыт в стрельбе",
+    "regen": "Регенерация",
+    "armor": "Броня",
+    "direct": "Направленный удар",
+    "stamina": "Стойкость",
+    "zov": "Защита от выстрелов",
+    "zot": "Защита от метания",
+    "zoo": "Защита от отравления",
+    "zoal": "Защита от летающих",
+    "zom": "Защита от магии",
+    "zoz": "Защита от заклинаний",
+    "zor": "Защита от разрядов"
+  },
+  "tts_options": {
+    "path": "https://berserk-nxt.ru/tts/",
+    "rarity": {"1":"Частая","2":"Редкая","3":"Суперредкая","4":"Ультраредкая"},
+    "color": {"1":"Степи", "2":"Горы", "4":"Леса", "8":"Болота", "16":"Тьма", "32":"Нейтралы"},
+    "root_base": {"SaveName":"","Date":"","VersionNumber":"","GameMode":"","GameType":"","GameComplexity":"","Tags":[],"Gravity":0.5,"PlayArea":0.5,"Table":"","Sky":"","Note":"","TabStates":{},"LuaScript":"","LuaScriptState":"","XmlUI":"","ObjectStates":[]},
+    "custom_view": {"FaceURL":"","BackURL":"","NumWidth":10,"NumHeight":7,"BackIsHidden":false,"UniqueBack":false,"Type":0},
+    "deck_base": {"GUID":"GUID","DeckIDs":[],"CustomDeck":{},"ContainedObjects":[],"Tags":[],"Name":"Deck","Transform":{"posX":20,"posY":1,"posZ":10,"rotX":0,"rotY":180,"rotZ":0,"scaleX":1.0,"scaleY":1.0,"scaleZ":1.0},"Nickname":"","Description":"","GMNotes":"","AltLookAngle":{"x":0.0,"y":0.0,"z":0.0},"ColorDiffuse":{"r":0.713235259,"g":0.713235259,"b":0.713235259},"LayoutGroupSortIndex":0,"Value":0,"Locked":false,"Grid":true,"Snap":true,"IgnoreFoW":false,"MeasureMovement":false,"DragSelectable":true,"Autoraise":true,"Sticky":true,"Tooltip":true,"GridProjection":false,"HideWhenFaceDown":true,"Hands":false,"SidewaysCard":false,"LuaScript":"","LuaScriptState":"","XmlUI":""},
+    "card_base": {"GUID":"GUID","Nickname":"","Tags":[],"CardID":0,"CustomDeck":{},"Name":"Card","Transform":{"posX":20,"posY":1,"posZ":10,"rotX":0,"rotY":180,"rotZ":0,"scaleX":1.0,"scaleY":1.0,"scaleZ":1.0},"Description":"","GMNotes":"","AltLookAngle":{"x":0.0,"y":0.0,"z":0.0},"ColorDiffuse":{"r":0.713235259,"g":0.713235259,"b":0.713235259},"LayoutGroupSortIndex":0,"Value":0,"Locked":false,"Grid":true,"Snap":true,"IgnoreFoW":false,"MeasureMovement":false,"DragSelectable":true,"Autoraise":true,"Sticky":true,"Tooltip":true,"GridProjection":false,"HideWhenFaceDown":true,"Hands":true,"SidewaysCard":false,"LuaScript":"","LuaScriptState":"","XmlUI":""}
   }
 }
