@@ -65,6 +65,7 @@
   },
   "orders": {
     "num": "Номер",
+    "color": "Стихия",
     "rarity": "Редкость",
     "cost": "Стоимость",
     "name": "Имя",
@@ -92,10 +93,22 @@
     "zoz": "Защита от заклинаний",
     "zor": "Защита от разрядов"
   },
+  "tag_colors": {
+    "Избранное": "#D24317",
+    "В работе": "#7B776B",
+    "Констрактед": "#006D46",
+    "Драфт": "#3C71F7",
+    "Силед": "#D9269D",
+    "Импорт": "#525F7A",
+    "Эксперимент": "#D93526",
+    "Фан": "#FF9500",
+    "Архив": "#191C20"
+  },
   "tts_options": {
     "path": "https://berserk-nxt.ru/tts/",
-    "rarity": {"1":"Частая","2":"Редкая","3":"Суперредкая","4":"Ультраредкая"},
+    "rarity": {"1":"Частая","2":"Необычная","3":"Редкая","4":"Ультраредкая"},
     "color": {"1":"Степи", "2":"Горы", "4":"Леса", "8":"Болота", "16":"Тьма", "32":"Нейтралы"},
+    "sets": {"10": "Война стихий","20": "Нашествие тьмы","21": "Легенды Лаара","22": "Русы против ящеров","30": "Семена раздора"},
     "root_base": {"SaveName":"","Date":"","VersionNumber":"","GameMode":"","GameType":"","GameComplexity":"","Tags":[],"Gravity":0.5,"PlayArea":0.5,"Table":"","Sky":"","Note":"","TabStates":{},"LuaScript":"","LuaScriptState":"","XmlUI":"","ObjectStates":[]},
     "custom_view": {"FaceURL":"","BackURL":"","NumWidth":10,"NumHeight":7,"BackIsHidden":false,"UniqueBack":false,"Type":0},
     "deck_base": {"GUID":"GUID","DeckIDs":[],"CustomDeck":{},"ContainedObjects":[],"Tags":[],"Name":"Deck","Transform":{"posX":20,"posY":1,"posZ":10,"rotX":0,"rotY":180,"rotZ":0,"scaleX":1.0,"scaleY":1.0,"scaleZ":1.0},"Nickname":"","Description":"","GMNotes":"","AltLookAngle":{"x":0.0,"y":0.0,"z":0.0},"ColorDiffuse":{"r":0.713235259,"g":0.713235259,"b":0.713235259},"LayoutGroupSortIndex":0,"Value":0,"Locked":false,"Grid":true,"Snap":true,"IgnoreFoW":false,"MeasureMovement":false,"DragSelectable":true,"Autoraise":true,"Sticky":true,"Tooltip":true,"GridProjection":false,"HideWhenFaceDown":true,"Hands":false,"SidewaysCard":false,"LuaScript":"","LuaScriptState":"","XmlUI":""},
